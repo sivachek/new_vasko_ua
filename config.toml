@@ -1,0 +1,25 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+theme = "vdt"
+
+disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+
+DefaultContentLanguage = "ua"
+defaultContentLanguageInSubdir = true
+
+[Languages]
+
+[Languages.ua]
+languageName = "Українська"
+title = "Vasko"
+weight = 1
+
+[Languages.ru]
+languageName = "Русский"
+title = "Vasko"
+weight = 2
+
+[Languages.en]
+languageName = "English"
+title = "Vasko"
+weight = 3
