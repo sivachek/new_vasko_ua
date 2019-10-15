@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-theme = "vdt"
+theme = "materialize"
 
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
