@@ -26,7 +26,7 @@ We also advise Ukrainian business, including banks and investment companies, IT 
 #### Comprehensive advice
 We normally can deliver a comprehensive advice in terms of taxation, legal protection and dispute resolution, migration and labour issues, corporate structuring and governance, contract law, possessing actual control over local assets.
 
-### As our KEY PROFESSIONALS have western education, we are much aware of the western business regular needs and mentality differences they may run to in Ukraine.
+### As our [KEY PROFESSIONALS](../experts/) have western education, we are much aware of the western business regular needs and mentality differences they may run to in Ukraine.
 
 ### Our Advantages
 

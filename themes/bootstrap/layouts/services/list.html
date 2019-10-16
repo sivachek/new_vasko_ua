@@ -12,11 +12,13 @@
     <!-- Ranges through content/posts/*.md -->
     {{- range .Pages -}}
         <section>
-            <header>
-		    <img src="{{ (.Resources.GetMatch "**.jpg").Permalink }}" alt="{{ .Title }}">
-	        <h1>{{- .Title -}}</h1>
-	        </header>
-	        {{- .Content -}}
+          <header>
+            <img src="{{ (.Resources.GetMatch "**.jpg").Permalink }}" alt="{{ .Title }}">
+            <h1>{{- .Title -}}</h1>
+          </header>
+          <main>
+          {{- .Content -}}
+          </main>
         </section>
     {{ end -}}
 

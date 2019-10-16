@@ -13,13 +13,14 @@
     {{- range .Pages -}}
         <section>
 		    <header>
-		    <img src="{{ (.Resources.GetMatch "**.jpg").Permalink }}" alt="{{ .Title }}">
+		      <img src="{{ (.Resources.GetMatch "**.jpg").Permalink }}" alt="{{ .Title }}">
 	        <h1>{{- .Title -}}</h1>
-	        </header>
+	      </header>
+        <main>
 	        {{- .Content -}}
+        </main>
         </section>
     {{ end -}}
-    </section>
     </article>
 </main>
 {{- end -}}
