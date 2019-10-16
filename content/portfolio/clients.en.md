@@ -1,6 +1,7 @@
 ---
 title: "Clients"
 date: 2019-09-16T17:23:12+03:00
+menu: "main"
 ---
 
 In view of impeccable compliance with the principles of advocate's ethics and confidentiality, we do not name our Clients. However, in order to provide potential Clients with an understanding of the scope of our expertise, we hereby offer a general description of Clients who have already intrusted us in matters of legal assistance and professional consulting:

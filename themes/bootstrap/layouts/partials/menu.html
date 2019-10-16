@@ -1,10 +1,11 @@
 <nav>
-<ul class="nav">
+<ul class="nav nav-pills justify-content-end">
     {{- $currentPage := . -}}
     {{ range .Site.Menus.main -}}
-    <li class="nav-item">{{$currentPage.IsMenuCurrent "main" .}}
-        <a class='nav-link {{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}' href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+    <li class="nav-item">
+        <a class='nav-link {{- if $currentPage.IsMenuCurrent .Menu . }} active{{ end }}' href="{{ .URL | absLangURL }}">{{ .Name }}</a>
     </li>
     {{- end }}
+    {{- partial "menulang.html" . -}}
 </ul>
 </nav>

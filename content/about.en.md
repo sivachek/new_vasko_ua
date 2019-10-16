@@ -1,6 +1,7 @@
 ---
 title: "About the company"
 date: 2019-10-12T02:43:18+03:00
+menu: "main"
 ---
 
 ### HISTORY OF THE COMPANY
