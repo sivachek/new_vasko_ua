@@ -1,10 +1,10 @@
 {{- if .IsTranslated -}}
-<li class="nav-item dropdown">
+<div class="navbar-nav">
     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false" style="text-transform:uppercase">{{.Lang}}</a>
-    <div class="dropdown-menu">
+    <div class="dropdown-menu dropdown-menu-right">
     {{- range .Translations -}}
     <a href="{{ .Permalink }}" title="{{ .Title }}" class="dropdown-item" style="text-transform:uppercase">{{ .Lang }}</a>
     {{- end -}}
     </div>
-</li>
+</div>
 {{- end -}}

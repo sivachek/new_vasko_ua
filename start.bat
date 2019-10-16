@@ -1,2 +1,2 @@
 @echo off
-start ..\hugo server
+start ..\hugo server --disableFastRender

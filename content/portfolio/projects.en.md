@@ -1,7 +1,9 @@
 ---
 title: "Projects"
 date: 2019-09-16T16:57:50+03:00
-menu: "main"
+menu:
+  main:
+    weight: 50
 ---
 
 We do not normally name our Clients in terms of confidentiality. However, as our Clients are aware of and rely on our talents, high standard of excellence and creativity, our track record of success in a wide variety of practice areas and industries will stand for itself. We will name only the part of most significant here:

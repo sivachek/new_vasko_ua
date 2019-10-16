@@ -11,15 +11,15 @@ defaultContentLanguageInSubdir = true
 
 [Languages.ua]
 languageName = "Українська"
-title = "Vasko"
+title = "Разом до Успіху | Vasko"
 weight = 1
 
 [Languages.ru]
 languageName = "Русский"
-title = "Vasko"
+title = "Вместе к Успеху | Vasko"
 weight = 2
 
 [Languages.en]
 languageName = "English"
-title = "Vasko"
+title = "Together to Success | Vasko"
 weight = 3

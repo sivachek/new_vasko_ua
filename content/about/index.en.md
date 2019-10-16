@@ -1,7 +1,9 @@
 ---
 title: "About the company"
 date: 2019-10-12T02:43:18+03:00
-menu: "main"
+menu:
+  main:
+    weight: 20
 ---
 
 ### HISTORY OF THE COMPANY
