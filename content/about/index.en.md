@@ -37,7 +37,7 @@ Our particular feature is the ability to deliver our Clients individually tailor
 Where the dispute is inevitable, having strong expertise and success track record we are able to provide for best possible advice and remedies.
 
 #### Experience
-The scope of our expertise may be assessed through our. [Portfolio](../portfolio/projects)
+The scope of our expertise may be assessed through our [Portfolio](../portfolio/projects).
 
 #### Reasonable fees
 Legal fees for the rendered legal services are normally billed on an hourly rate basis. Such rates may vary depending on type and scope of service required and professionals involved.
