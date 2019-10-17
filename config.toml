@@ -1,11 +1,13 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 theme = "bootstrap"
-
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
-
 DefaultContentLanguage = "ua"
 defaultContentLanguageInSubdir = true
+
+[blackfriday]
+extensionsmask = ["autoHeaderIds", "headerIds", "autolink"]
+
 
 [Languages]
 
