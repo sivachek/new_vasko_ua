@@ -1,6 +1,7 @@
 baseURL = "http://vasko.ua/"
 languageCode = "en-us"
 theme = "bootstrap"
+Paginate = 9
 
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
@@ -16,15 +17,15 @@ extensionsmask = ["autoHeaderIds", "headerIds", "autolink"]
 
 [Languages.ua]
 languageName = "Українська"
-title = "Разом до Успіху | Vasko"
+title = "Разом до Успіху"
 weight = 1
 
 [Languages.ru]
 languageName = "Русский"
-title = "Вместе к Успеху | Vasko"
+title = "Вместе к Успеху"
 weight = 2
 
 [Languages.en]
 languageName = "English"
-title = "Together to Success | Vasko"
+title = "Together to Success"
 weight = 3

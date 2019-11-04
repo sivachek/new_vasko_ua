@@ -8,17 +8,19 @@
         {{- .Content -}}
     </article>
 
-    <!-- Ranges through content/posts/*.md -->
+    <!-- Ranges through content/experts/**.md -->
     {{- range .Pages -}}
-        <section>
-          <header>
+        <div class="jumbotron">
+        <section class="row">
+          <header class="col-3">
             <img src="{{ (.Resources.GetMatch "**.jpg").Permalink }}" alt="{{ .Title }}">
-	          <h1>{{- .Title -}}</h1>
+	          <h3>{{- .Title -}}</h3>
           </header>
-          <main>
+          <main class="col-9">
 	        {{- .Content -}}
           </main>
         </section>
+        </div>
     {{ end -}}
 
 </main>
