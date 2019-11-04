@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "http://vasko.ua/"
 languageCode = "en-us"
-theme = "my"
+theme = "bootstrap"
 
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
