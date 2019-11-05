@@ -13,7 +13,7 @@
     {{- range (.Paginator 3).Pages -}}
         <div style="margin-bottom: 2em;">
             <div><a href="{{.Permalink}}"><img src="{{ (.Resources.GetMatch "**.jpg").Permalink }}" alt="{{ .Title }}" style="width: 500px;"></a></div>
-            <div>{{.Date.Format "2006-01-02"}} / {{ .Params.categories }}</div>
+            <div>{{.Date.Format (i18n "date_format")}} / {{ .Params.categories }}</div>
             <h3><a href="{{.Permalink}}">{{.Title}}</a></h3>
             <div>{{ .Summary }}</div>
         </div>
@@ -21,9 +21,14 @@
     </div>
     <div class="col-4">
     <ul>
-    {{ range .Site.Taxonomies.categories }}
-        <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> {{ .Count }}</li>
-    {{ end }}
+      {{ range .Site.Taxonomies.categories.ByCount }}
+          <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> ({{ .Count }})</li>
+      {{ end }}
+    </ul>
+    <ul>
+    {{ range first 3 .Pages }}
+    	<li>{{ .Title }}</li>
+	{{ end }}
     </ul>
     </div>
     </div>

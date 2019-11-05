@@ -8,9 +8,12 @@ disableKinds = ["RSS", "taxonomyTerm"]
 DefaultContentLanguage = "ua"
 defaultContentLanguageInSubdir = true
 
+[taxonomies]
+  category = "categories"
+
 [blackfriday]
-plainIDAnchors = false
-extensionsmask = ["autoHeaderIds", "headerIds", "autolink"]
+  plainIDAnchors = false
+  extensionsmask = ["autoHeaderIds", "headerIds", "autolink"]
 
 
 [Languages]
@@ -20,14 +23,12 @@ languageName = "Українська"
 title = "Разом до Успіху"
 weight = 1
 [languages.ua.Taxonomies]
-Immovables = "Нерухомість"
+category = "категорії"
 
 [Languages.ru]
 languageName = "Русский"
 title = "Вместе к Успеху"
 weight = 2
-[languages.ru.Taxonomies]
-Immovables = "Недвижимость"
 
 [Languages.en]
 languageName = "English"
