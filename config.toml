@@ -5,7 +5,7 @@ Paginate = 9
 
 disableKinds = ["RSS", "taxonomyTerm"]
 
-DefaultContentLanguage = "ua"
+DefaultContentLanguage = "uk"
 defaultContentLanguageInSubdir = true
 
 [taxonomies]
@@ -18,12 +18,10 @@ defaultContentLanguageInSubdir = true
 
 [Languages]
 
-[Languages.ua]
+[Languages.uk]
 languageName = "Українська"
 title = "Разом до Успіху"
 weight = 1
-[languages.ua.Taxonomies]
-category = "категорії"
 
 [Languages.ru]
 languageName = "Русский"
