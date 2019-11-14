@@ -19,6 +19,6 @@ For more than a decade on the market of legal services in Ukraine, the share of 
 
 - Complex compliance audit of development projects of any degree of complexity.
 
-## Some projects:
-
-- Advising a major European-based cement producer in its acquisition of majority stakes in three Ukrainian cement producers;
+> #### Some projects:
+>
+> - Advising a major European-based cement producer in its acquisition of majority stakes in three Ukrainian cement producers;

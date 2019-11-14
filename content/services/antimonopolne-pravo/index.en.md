@@ -19,10 +19,10 @@ Vasko Law Firm has a positive experience in representing its Clients before the 
 
 - Advising in operations on acquisition of blocks of shares, mergers and acquisitions, incorporation of a new entity by several large companies.
 
-## Some projects:
-
-- Advising a European Bank on the successful acquisition of a Ukrainian bank;
-
-- Advising a major European-based cement producer in its acquisition of majority stakes in three Ukrainian cement producers;
-
-- Advising a major European-based brewing concern in its acquisition of majority stakes in two Ukrainian breweries;
+> #### Some projects:
+>
+> - Advising a European Bank on the successful acquisition of a Ukrainian bank;
+>
+> - Advising a major European-based cement producer in its acquisition of majority stakes in three Ukrainian cement producers;
+>
+> - Advising a major European-based brewing concern in its acquisition of majority stakes in two Ukrainian breweries;

@@ -29,12 +29,12 @@ The key advantage of Vasko Law Firm is combining in-depth theoretical knowledge 
 
 - Wide range of financial and banking instruments related dispute resolution, etc.
 
-## Some projects:
-
-- Advising a British investment company on the first Ukrainian USD 80 million corporate bond default and recovery ;
-
-- Advising two major American Investment Funds on establishing and operation of USD 100 million real estate investment fund in Ukraine;
-
-- Advising a Ukrainian investment bank with foreign investments on the structuring and acquisition of the European defaulted debt securities and multinational nettings and setting-offs issues. The aggregate values of such projects above USD 10 million. Successful defence all of such structures and transactions in foreign and Ukrainian courts;
-
-- Advising Ukrainian issuers on structuring and issuance of foreign currency denominated corporate bond issues;
+> #### Some projects:
+>
+> - Advising a British investment company on the first Ukrainian USD 80 million corporate bond default and recovery ;
+>
+> - Advising two major American Investment Funds on establishing and operation of USD 100 million real estate investment fund in Ukraine;
+>
+> - Advising a Ukrainian investment bank with foreign investments on the structuring and acquisition of the European defaulted debt securities and multinational nettings and setting-offs issues. The aggregate values of such projects above USD 10 million. Successful defence all of such structures and transactions in foreign and Ukrainian courts;
+>
+> - Advising Ukrainian issuers on structuring and issuance of foreign currency denominated corporate bond issues;

@@ -27,10 +27,10 @@ The profound knowledge of legal regulation of land relations and real estate dur
 
 - Designing and implementing complex individualized solutions for protection from hostile takeovers, etc.
 
-## Some projects:
-
-- Advising a major American Investment Fund on USD 25 million agricultural land lease structuring and acquisition in Ukraine ;
-
-- Advising a major European Agricultural holding on raid protection; successful defense of the latter in courts of various regions of western Ukraine;
-
-- Advising a Top-5 transnational Agricultural holding on raid protection; successful defense of the latter in courts of various regions in eastern and central Ukraine;
+> #### Some projects:
+>
+> - Advising a major American Investment Fund on USD 25 million agricultural land lease structuring and acquisition in Ukraine ;
+>
+> - Advising a major European Agricultural holding on raid protection; successful defense of the latter in courts of various regions of western Ukraine;
+>
+> - Advising a Top-5 transnational Agricultural holding on raid protection; successful defense of the latter in courts of various regions in eastern and central Ukraine;

@@ -39,6 +39,6 @@ During the years of our work, we have created a significant practice of labor la
 
 - establishment and structuring of relations with trade unions, etc.
 
-## Some projects:
-
-- Advising a major European retail business on labor issues in Ukraine;
+> #### Some projects:
+>
+> - Advising a major European retail business on labor issues in Ukraine;

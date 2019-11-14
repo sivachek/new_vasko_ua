@@ -17,12 +17,12 @@ We bare successful practical experience in debt restructuring, while maintaining
 
 - Designing individual solutions for setoffs, including cross-border and multi-jurisdictional situations, etc.
 
-## Some projects:
-
-- Консультирование по случаю реструктуризации внешнего долга Украины на сумму 50 миллионов долларов США
-
-- Advising a British investment company on the first Ukrainian USD 80 million corporate bond default and recovery ;
-
-- Advising a major British investment fund on the continuous debt restructurings for the sums over USD 43 million;
-
-- Advising a state institution in connection with the successful restructuring of USD 2.7 billion of outstanding external commercial debt;
+> #### Some projects:
+>
+> - Консультирование по случаю реструктуризации внешнего долга Украины на сумму 50 миллионов долларов США
+>
+> - Advising a British investment company on the first Ukrainian USD 80 million corporate bond default and recovery ;
+>
+> - Advising a major British investment fund on the continuous debt restructurings for the sums over USD 43 million;
+>
+> - Advising a state institution in connection with the successful restructuring of USD 2.7 billion of outstanding external commercial debt;

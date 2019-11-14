@@ -17,7 +17,7 @@
 		      {{- $resource := .Resources.GetMatch "**.jpg" -}}
 		      {{- $image := $resource.Resize "250x" -}}
 		      <img src="{{ $image.Permalink }}" alt="{{ .Title }}">
-	        <h3>{{- .Title -}}</h3>
+	        <h4>{{- .Title -}}</h4>
 	      </header>
         <main class="col-7">
 	        {{- .Content -}}

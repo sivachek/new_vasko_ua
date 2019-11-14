@@ -23,6 +23,6 @@ We closely monitor the development of a new taxation era knows as deoffshorizati
 
 - Assistance in choosing of jurisdiction and legal status for the use of foreign companies in the structure of global business, etc.
 
-## Some projects:
-
-- Advising a European Private investor on USD 6.5 million successful acquisition of pharmaceutical network in Ukraine and its further consolidation;
+> #### Some projects:
+>
+> - Advising a European Private investor on USD 6.5 million successful acquisition of pharmaceutical network in Ukraine and its further consolidation;

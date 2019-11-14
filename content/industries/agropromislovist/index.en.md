@@ -23,6 +23,8 @@ Our services in the food and beverage industry are focused on the needs of produ
 
 - Development of distribution structure, wholesale and retail trade;
 
-## Some projects:
-- Advising a major American Investment Fund on USD 25 million agricultural land lease structuring and acquisition in Ukraine ;
-- Advising a Top-5 transnational Agricultural holding on raid protection; successful defense of the latter in courts of various regions in eastern and central Ukraine;
+> #### Some projects:
+>
+> - Advising a major American Investment Fund on USD 25 million agricultural land lease structuring and acquisition in Ukraine ;
+>
+> - Advising a Top-5 transnational Agricultural holding on raid protection; successful defense of the latter in courts of various regions in eastern and central Ukraine;

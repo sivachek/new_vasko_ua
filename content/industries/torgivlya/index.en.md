@@ -25,8 +25,8 @@ Attorneys at “Vasko” Law Firm have accumulated considerable experience of le
 
 - Issues related to the protection of consumer rights, etc.
 
-## Some projects:
-
-- Advising world’s leading electronic producer on distribution structures and trade issues;
-
-- Advising a group of Ukrainian investors on multibillion acquisition and structuring of operations of the biggest Ukrainian heat producer and distributor in Ukraine, etc. through;
+> #### Some projects:
+>
+> - Advising world’s leading electronic producer on distribution structures and trade issues;
+>
+> - Advising a group of Ukrainian investors on multibillion acquisition and structuring of operations of the biggest Ukrainian heat producer and distributor in Ukraine, etc. through;

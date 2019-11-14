@@ -23,8 +23,8 @@ For more than a decade of successful legal practice in the financial sector, “
 
 - Advising the clients of financial institutions on wealth management, etc.
 
-## Some projects:
-
-- Advising a European Bank on the successful acquisition of a Ukrainian bank;
-
-- Advising two major American Investment Funds on establishing and operation of USD 100 million real estate investment fund in Ukraine;
+> #### Some projects:
+>
+> - Advising a European Bank on the successful acquisition of a Ukrainian bank;
+>
+> - Advising two major American Investment Funds on establishing and operation of USD 100 million real estate investment fund in Ukraine;

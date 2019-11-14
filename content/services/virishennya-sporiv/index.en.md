@@ -37,14 +37,14 @@ In more than fifteen years of practice, we have gained a successful and unique e
 
 - Privatization disputes.
 
-## Some projects:
-
-- Advising a Ukrainian investment bank with foreign investments on the structuring and acquisition of the European defaulted debt securities and multinational nettings and setting-offs issues. The aggregate values of such projects above USD 10 million. Successful defence all of such structures and transactions in foreign and Ukrainian courts;
-
-- Advising a major European Agricultural holding on raid protection; successful defense of the latter in courts of various regions of western Ukraine;
-
-- Advising a Top-5 transnational Agricultural holding on raid protection; successful defense of the latter in courts of various regions in eastern and central Ukraine;
-
-- Advising an American investment fund on the first Ukrainian USD 35 million municipal bond default and recovery;
-
-- Advising a leading Ukrainian mining company in connection with the successful restructuring of more than UAH 70 million of outstanding debt;
+> #### Some projects:
+>
+> - Advising a Ukrainian investment bank with foreign investments on the structuring and acquisition of the European defaulted debt securities and multinational nettings and setting-offs issues. The aggregate values of such projects above USD 10 million. Successful defence all of such structures and transactions in foreign and Ukrainian courts;
+>
+> - Advising a major European Agricultural holding on raid protection; successful defense of the latter in courts of various regions of western Ukraine;
+>
+> - Advising a Top-5 transnational Agricultural holding on raid protection; successful defense of the latter in courts of various regions in eastern and central Ukraine;
+>
+> - Advising an American investment fund on the first Ukrainian USD 35 million municipal bond default and recovery;
+>
+> - Advising a leading Ukrainian mining company in connection with the successful restructuring of more than UAH 70 million of outstanding debt;

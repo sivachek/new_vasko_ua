@@ -21,6 +21,6 @@ The VASKO Law Office has significant expertise in providing legal support on all
 
 - Advising on intellectual property law.
 
-## Some projects:
-
-- Legal support and advising Ukrainian Production in producing a TV series for a leading Ukrainian TV Channel.
+> #### Some projects:
+>
+> - Legal support and advising Ukrainian Production in producing a TV series for a leading Ukrainian TV Channel.

@@ -25,8 +25,8 @@ We provide advice on a wide range of transactions: from venture capital to large
 
 - Representation of interests in disputes concerning securities, etc.
 
-## Some projects:
-
-- Advising two major American Investment Funds on establishing and operation of USD 100 million real estate investment fund in Ukraine;
-
-- Advising Ukrainian issuers on structuring and issuance of foreign currency denominated corporate bond issues;
+> #### Some projects:
+>
+> - Advising two major American Investment Funds on establishing and operation of USD 100 million real estate investment fund in Ukraine;
+>
+> - Advising Ukrainian issuers on structuring and issuance of foreign currency denominated corporate bond issues;

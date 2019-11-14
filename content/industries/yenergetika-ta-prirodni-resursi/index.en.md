@@ -25,8 +25,8 @@ The energy and natural resources sector is one of the most emerging and prospect
 
 - Resolution of disputes in the spheres of energy and natural resources.
 
-## Some projects:
-
-- Advising a group of Ukrainian investors on multibillion acquisition and structuring of operations of the biggest Ukrainian heat producer and distributor in Ukraine, etc. through;
-
-- Advising a leading Ukrainian mining company in connection with the successful restructuring of more than UAH 70 million of outstanding debt;
+> #### Some projects:
+>
+> - Advising a group of Ukrainian investors on multibillion acquisition and structuring of operations of the biggest Ukrainian heat producer and distributor in Ukraine, etc. through;
+>
+> - Advising a leading Ukrainian mining company in connection with the successful restructuring of more than UAH 70 million of outstanding debt;

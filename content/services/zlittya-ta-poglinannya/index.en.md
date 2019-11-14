@@ -31,14 +31,14 @@ The expertise of Vasko law firm in many fields of law allows us to offer complex
 
 - Corporate disputes, etc.
 
-## Some projects:
-
-- Advising a European Private investor on USD 6.5 million successful acquisition of pharmaceutical network in Ukraine and its further consolidation;
-
-- Advising a group of Ukrainian investors on multibillion acquisition and structuring of operations of the biggest Ukrainian heat producer and distributor in Ukraine, etc. through;
-
-- Advising a major Ukrainian food producer on restructuring of the activities of five food manufacturing enterprises;
-
-- Advising a major European-based cement producer in its acquisition of majority stakes in three Ukrainian cement producers;
-
-- Advising a major European-based brewing concern in its acquisition of majority stakes in two Ukrainian breweries;
+> #### Some projects:
+>
+> - Advising a European Private investor on USD 6.5 million successful acquisition of pharmaceutical network in Ukraine and its further consolidation;
+>
+> - Advising a group of Ukrainian investors on multibillion acquisition and structuring of operations of the biggest Ukrainian heat producer and distributor in Ukraine, etc. through;
+>
+> - Advising a major Ukrainian food producer on restructuring of the activities of five food manufacturing enterprises;
+>
+> - Advising a major European-based cement producer in its acquisition of majority stakes in three Ukrainian cement producers;
+>
+> - Advising a major European-based brewing concern in its acquisition of majority stakes in two Ukrainian breweries;
