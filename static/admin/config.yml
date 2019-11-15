@@ -1,5 +1,7 @@
 backend:
-  name: test-repo
+  name: github
+  repo: sivachek/new_vasko_ua
+  branch: netlify
 
 # This line should *not* be indented
 publish_mode: editorial_workflow
