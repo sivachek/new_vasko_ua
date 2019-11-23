@@ -13,7 +13,7 @@
     {{- range (.Paginator 3).Pages -}}
         <div style="margin-bottom: 2em;">
             <div><a href="{{.Permalink}}"><img src="{{ (.Resources.GetMatch "**.jpg").Permalink }}" alt="{{ .Title }}" style="width: 500px;"></a></div>
-            <div>{{.Date.Format (i18n "date_format")}} / {{ .Params.categories }}</div>
+            <div>{{.Date.Format (i18n "dateFormat")}} / {{ .Params.categories }}</div>
             <h3><a href="{{.Permalink}}">{{.Title}}</a></h3>
             <div>{{ .Summary }}</div>
         </div>
