@@ -1,6 +1,6 @@
 baseURL = "http://vasko.ua/"
 languageCode = "en-us"
-theme = "bootstrap"
+theme = "materialize"
 Paginate = 9
 
 disableKinds = ["RSS", "taxonomyTerm"]
