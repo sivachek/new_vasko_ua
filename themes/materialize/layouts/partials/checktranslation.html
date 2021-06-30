@@ -1,7 +1,0 @@
-{{- if .IsTranslated -}}
-<div class=""><ul class="">
-    {{- range .Translations -}}
-    <li class="node_translation_{{ .Lang }}"><a href="{{ .Permalink }}" title="{{ .Title }}" class=""><img src="/img/{{ .Lang }}.png" width="16" height="12" class="" alt="{{ .Lang }}" /> {{ .Title }}</a></li>
-    {{- end -}}
-</ul></div>
-{{- end -}}
