@@ -1,12 +1,12 @@
 {{- if .IsTranslated -}}
-<div class="navbar-nav">
-<div class="nav-item dropdown">
-    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false" style="text-transform:uppercase">{{.Lang}}</a>
-    <div class="dropdown-menu dropdown-menu-right">
+<ul class="navbar-nav me-auto mb-2 mb-lg-0">
+<li class="nav-item dropdown">
+    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false" style="text-transform:uppercase">{{.Lang}}</a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
     {{- range .Translations -}}
-    <a href="{{ .Permalink }}" title="{{ .Title }}" class="dropdown-item" style="text-transform:uppercase">{{ .Lang }}</a>
+    <li><a href="{{ .Permalink }}" title="{{ .Title }}" class="dropdown-item" style="text-transform:uppercase">{{ .Lang }}</a></li>
     {{- end -}}
-    </div>
-</div>
-</div>
+    </ul>
+</li>
+</ul>
 {{- end -}}

@@ -1,17 +1,21 @@
-<nav class="navbar sticky-top navbar-expand-md navbar-dark bg-dark">
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+ <div class="container-fluid">
   <a class="navbar-brand" href="/{{ .Lang }}/">Vasko</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <div class="collapse navbar-collapse" id="navbarCollapse">
-    <ul class="navbar-nav mr-auto">
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
     {{- $currentPage := . -}}
     {{ range .Site.Menus.main -}}
-    <li class="nav-item {{- if $currentPage.IsMenuCurrent .Menu . }} active{{ end }}">
-        <a class="nav-link" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+    <li class="nav-item">
+        <a class="nav-link {{- if $currentPage.IsMenuCurrent .Menu . }} active{{ end }}" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
     </li>
     {{- end }}
    </ul>
+   <div class="d-flex">
    {{- partial "menulang.html" . -}}
+   </div>
   </div>
+ </div>
 </nav>
