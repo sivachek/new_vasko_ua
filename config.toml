@@ -1,4 +1,5 @@
 baseURL = "http://vasko.ua/"
+timeZone = "Europe/Kiev"
 languageCode = "en-us"
 theme = "bootstrap"
 Paginate = 9
