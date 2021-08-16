@@ -10,7 +10,7 @@
 
     <!-- Ranges through content/experts/**.md -->
     {{- range .Pages -}}
-        <div class="jumbotron">
+        <div class="container-fluid py-5">
         <section class="row">
           <header class="col-3">
             <img src="{{ (.Resources.GetMatch "**.jpg").Permalink }}" alt="{{ .Title }}">
