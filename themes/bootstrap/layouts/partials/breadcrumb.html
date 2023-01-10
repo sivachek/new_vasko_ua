@@ -1,3 +1,4 @@
+<!--
 <div>
 <nav aria-label="breadcrumb">
 <ol class="breadcrumb">
@@ -15,3 +16,16 @@
     {{ if eq .p1 .p2 }} {{ .p1.Title }} {{ else }}<a href="{{ .p1.Permalink }}">{{ .p1.Title }}</a>{{ end }}
   </li>
 {{- end -}}
+-->
+<div>
+<nav aria-label="breadcrumb">
+<ol class="breadcrumb">
+    {{- range .Ancestors.Reverse }}
+      <li class="breadcrumb-item"><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{- end }}
+    <li class="breadcrumb-item active" aria-current="page">
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </li>
+</ol>
+</nav>
+</div>
