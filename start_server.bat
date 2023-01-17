@@ -1,2 +1,2 @@
 @echo off
-start C:\Users\vu\Documents\dv\hugo\hugo server --disableFastRender
+start ..\hugo server --disableFastRender
