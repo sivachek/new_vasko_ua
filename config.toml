@@ -9,8 +9,6 @@ disableKinds = ["RSS", "taxonomyTerm"]
 DefaultContentLanguage = "uk"
 defaultContentLanguageInSubdir = true
 
-[taxonomies]
-  category = "categories"
 
 [blackfriday]
   plainIDAnchors = false

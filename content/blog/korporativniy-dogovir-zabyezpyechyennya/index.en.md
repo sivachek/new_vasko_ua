@@ -4,6 +4,8 @@ summary: "Sergiy Makarchuk, attorney for the Law Firm VASKO, on means to secure 
 date: 2019-04-11
 categories:
 - "Corporate law"
+tags:
+- "Corporate law"
 ---
 
 For more than a year, a corporate agreement[1] is available to Ukrainian business as a legal instrument. Today, it can be used for harmonising relations between the participants of the company as well as the effective tool for structuring relations between the borrower and the debtor, the buyer and seller, the investor and the company. The most promising ways of using a corporate agreement will be discussed in our next article. The purpose of this Article is to disclose the accessible and most efficient ways to secure the actual performance under the corporate agreement.
