@@ -12,11 +12,11 @@
     {{- range .Pages -}}
         <div class="container-fluid py-5">
         <section class="row">
-          <header class="col-3">
+          <header class="col-lg-3">
             <img src="{{ (.Resources.GetMatch "**.jpg").Permalink }}" alt="{{ .Title }}">
 	          <h3>{{- .Title -}}</h3>
           </header>
-          <main class="col-9">
+          <main class="col-lg-9">
 	        {{- .Content -}}
           </main>
         </section>

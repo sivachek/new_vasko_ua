@@ -8,7 +8,7 @@
         {{- .Content -}}
     </article>                                                                           
     <div class="row">
-    <div class="col-8">
+    <div class="col-lg-8">
     <!-- Ranges through content/posts/*.md -->
     {{- range (.Paginator 3).Pages -}}
         <div style="margin-bottom: 2em;">
@@ -19,7 +19,7 @@
         </div>
     {{ end -}}
     </div>
-    <div class="col-4">
+    <div class="col-lg-4">
     <ul>
       {{ range .Site.Taxonomies.categories.ByCount }}
           <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> ({{ .Count }})</li>
