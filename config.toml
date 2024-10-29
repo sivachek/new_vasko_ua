@@ -1,12 +1,14 @@
 baseURL = "http://vasko.ua/"
 languageCode = "en-us"
 theme = "materialize"
-Paginate = 9
 
-disableKinds = ["RSS", "taxonomyTerm"]
+disableKinds = ["RSS", "taxonomy"]
 
 DefaultContentLanguage = "uk"
 defaultContentLanguageInSubdir = true
+
+[pagination]
+  pagerSize = 9
 
 [taxonomies]
   category = "categories"
