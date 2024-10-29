@@ -2,12 +2,14 @@ baseURL = "http://vasko.ua/"
 timeZone = "Europe/Kiev"
 languageCode = "en-us"
 theme = "bootstrap5"
-Paginate = 9
 
-disableKinds = ["RSS", "taxonomyTerm"]
+disableKinds = ["RSS", "taxonomy"]
 
 DefaultContentLanguage = "uk"
 defaultContentLanguageInSubdir = true
+
+[pagination]
+  pagerSize = 9
 
 [taxonomies]
   category = "categories"
